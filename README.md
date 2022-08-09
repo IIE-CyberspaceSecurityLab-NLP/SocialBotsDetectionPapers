@@ -9,7 +9,6 @@ Important papers on SocialBots detection
     - [Keywords Convention](#keywords-convention)
   - [Toolkits](#toolkits)
   - [Datasets](#datasets)
- 
   - [Papers](#papers)
     - [Survey](#survey)
     - [Pilot Work](#pilot-work)
