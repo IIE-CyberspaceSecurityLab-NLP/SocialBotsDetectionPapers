@@ -16,5 +16,18 @@ Important papers on SocialBots detection
     - [Improvements](#improvements)
     - [Specializations](#specializations)
   - [Contribution](#contribution)
-    - [Other contributors](#other-contributors)
-    - [Contributing to this paper list](#contributing-to-this-paper-list)
+
+
+## Introduction
+
+This is a paper list and other useful sources about **Social bot deteting**. 
+
+### Keywords Convention
+
+
+#### Datasets keywords
+![](https://img.shields.io/badge/Engilsh-Twitter-blue)
+![](https://img.shields.io/badge/Chinese-Weibo-red)
+
+#### Paper keywords
+![](https://img.shields.io/badge/-Graph--Based-orange) Graph-based method.
