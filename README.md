@@ -1,22 +1,18 @@
-# SocialBotsPapers
+# SocialBotsDetectionPapers
 Important papers on SocialBots detection
 
 ## Contents
 
-- [SocialBotsPapers](#social-bots-papers)
+- [SocialBotsDetectionPapers](#social-bots-detection-papers)
   - [Introduction](#introduction)
     - [Overview and Statistics](#statistics)
     - [Keywords Convention](#keywords-convention)
   - [Datasets](#datasets)
   - [Toolkits](#toolkits)
   - [Papers](#papers)
-    - [Overview](#overview)
+    - [Survey](#survey)
     - [Pilot Work](#pilot-work)
-    - [Basics](#basics)
-    - [Analysis](#analysis)
-    - [Improvements](#improvements)
-    - [Specializations](#specializations)
-  - [Orga](#toolkits)
+  - [Organizations](#organizations)
   - [Toolkits](#toolkits)
   - [Contribution](#contribution)
 
@@ -34,4 +30,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 #### Paper keywords
 ![](https://img.shields.io/badge/-Graph--Based-orange) Graph-based method.
+
 ![](https://img.shields.io/badge/Conference-CCF--A-green) CCF is , including A-B-C three t.
+
+
