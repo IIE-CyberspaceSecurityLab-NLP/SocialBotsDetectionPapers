@@ -11,7 +11,7 @@ Important papers on SocialBots detection
   - [Datasets](#datasets)
   - [Papers](#papers)
     - [Survey](#survey)
-    - [Pilot Work](#pilot-work)
+    - [Research Papers](#research-papers)
   - [Organizations](#organizations)
   - [Toolkits](#toolkits)
   - [Contribution](#contribution)
