@@ -1,9 +1,9 @@
-# SocialBotsDetectionPapers
+# SocialBotDetectionPapers
 Important papers on SocialBots detection
 
 ## Contents
 
-- [SocialBotsDetectionPapers](#social-bots-detection-papers)
+- [SocialBotDetectionPapers](#social-bot-detection-papers)
   - [Introduction](#introduction)
     - [Overview and Statistics](#statistics)
     - [Keywords Convention](#keywords-convention)
