@@ -51,7 +51,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 3. **Detection of Bots in Social Media: A Systematic Review.**  INFORMATION PROCESSING & MANAGEMENT 2020. ![](https://img.shields.io/badge/Journal-CCF--B-green)
 
-   *Orabi, M; Mouheb, D; Al Aghbari, Z; Kamel, I.*  [[pdf](https://sci-hub.mksa.top/10.1016/j.ipm.2020.102250)]
+   *Orabi, M; Mouheb, D; Al Aghbari, Z; Kamel, I.*  [[pdf](https://sci.bban.top/pdf/10.1016/j.ipm.2020.102250.pdf#view=FitH)]
 
 4. **Detection of malicious social bots: A survey and a refined taxonomy** EXPERT SYSTEMS WITH APPLICATIONS 2020. ![](https://img.shields.io/badge/Journal-CCF--C-green)
   
