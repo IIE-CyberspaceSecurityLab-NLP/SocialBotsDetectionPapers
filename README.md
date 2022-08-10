@@ -33,7 +33,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ![](https://img.shields.io/badge/-Temporal-orange) which mainly focus on temporal patterns.
 
-![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three t.
+![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three tiers.
 
 ### Toolkits
 
