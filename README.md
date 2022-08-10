@@ -85,5 +85,5 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 2. **Real-time Detection of Content Polluters in Partially Observable Twitter Networks.** WWW 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Graph--Based-orange)
 
-*M. Nasim, A. Nguyen, N. Lothian, R. Cope, L. Mitchell.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3184558.3191574)]
+   *M. Nasim, A. Nguyen, N. Lothian, R. Cope, L. Mitchell.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3184558.3191574)]
 
