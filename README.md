@@ -31,7 +31,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 #### Paper keywords
 ![](https://img.shields.io/badge/-Graph--Based-orange) Graph-based method.
 
-![](https://img.shields.io/badge/Conference-CCF--A-green) CCF is , including A-B-C three t.
+![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three t.
 
 ### Toolkits
 
@@ -39,9 +39,9 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ### Papers
 
-### Survey
+#### Survey
 
-1. **Taming Social Bots: Detection, Exploration and Measurement.** CIKM 2019. ![](https://img.shields.io/badge/Conference-CCF--B-green)
+1. **Taming Social Bots: Detection, Exploration and Measurement.** CIKM 2019. ![](https://img.shields.io/badge/Conference-CCF--B-blue)
    
    *Mueen, A; Chavoshi, N; Minnich, A*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3360315)]
 
@@ -49,7 +49,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
    *Subrahmanian, VS.* 
 
-3. **Detection of Bots in Social Media: A Systematic Review.**  INFORMATION PROCESSING & MANAGEMENT 2020. ![](https://img.shields.io/badge/Journal-CCF--B-green)
+3. **Detection of Bots in Social Media: A Systematic Review.**  INFORMATION PROCESSING & MANAGEMENT 2020. ![](https://img.shields.io/badge/Journal-CCF--B-blue)
 
    *Orabi, M; Mouheb, D; Al Aghbari, Z; Kamel, I.*  [[pdf](https://sci.bban.top/pdf/10.1016/j.ipm.2020.102250.pdf#view=FitH)]
 
@@ -62,12 +62,18 @@ This is a paper list and other useful sources about **Social bot deteting**.
    *Rao, SJ; Verma, AK; Bhatia, T.*  [[pdf](https://pdf.bban.top/uptodate/S0957417421011209.pdf#navpanes=0&view=FitH)]
 
 
-5. **Detecting Social Bots on Twitter: A Literature Review.** IIT 2018.
+6. **Detecting Social Bots on Twitter: A Literature Review.** IIT 2018.
 
    *Alothali, E; Zaki, N; Mohamed, EA; Alashwal, H.*  [[pdf](https://sci.bban.top/pdf/10.1109/INNOVATIONS.2018.8605995.pdf#view=FitH)]
    
 
-5. **A Decade of Social Bot Detection.** COMMUNICATIONS OF THE ACM 2020. 
+7. **A Decade of Social Bot Detection.** COMMUNICATIONS OF THE ACM 2020. 
 
    *Cresci, S.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3409116?casa_token=onGHn6FEtxcAAAAA:h8qw7Uoo2Shq5jNErhLYjaKyKhWhgpYLgXVIDvmvWsNYgSqwtOWnIcQipfIKMghnmCY34Uffty0rjA)]
 
+
+#### Research Papers
+
+**SocialBotHunter: Botnet Detection in Twitter-like Social Networking Services Using Semi-Supervised Collective Classification.** TDSC 2018. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Graph--Based-orange)
+
+   *A. Dorri, M. Abadi, M. Dadfarnia.*  [[pdf](https://www.researchgate.net/profile/Mahila-Dadfarnia/publication/328604276_SocialBotHunter_Botnet_Detection_in_Twitter-Like_Social_Networking_Services_Using_Semi-Supervised_Collective_Classification/links/61cc08e0d450060816750432/SocialBotHunter-Botnet-Detection-in-Twitter-Like-Social-Networking-Services-Using-Semi-Supervised-Collective-Classification.pdf)]
