@@ -29,7 +29,11 @@ This is a paper list and other useful sources about **Social bot deteting**.
 ![](https://img.shields.io/badge/Chinese-Weibo-red)
 
 #### Paper keywords
-![](https://img.shields.io/badge/-Graph--Based-orange) Graph-based method.
+![](https://img.shields.io/badge/-UserInfo--Based-green) which mainly focus on user info features.
+
+![](https://img.shields.io/badge/-Text--Based-blue) which mainly focus on the text features.
+
+![](https://img.shields.io/badge/-SocialGraph--Based-orange) which mainly focus on social graph and use the graph-based methods.
 
 ![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three t.
 
@@ -74,6 +78,12 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 #### Research Papers
 
-**SocialBotHunter: Botnet Detection in Twitter-like Social Networking Services Using Semi-Supervised Collective Classification.** TDSC 2018. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Graph--Based-orange)
+1. **SocialBotHunter: Botnet Detection in Twitter-like Social Networking Services Using Semi-Supervised Collective Classification.** TDSC 2018. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Graph--Based-orange)
 
    *A. Dorri, M. Abadi, M. Dadfarnia.*  [[pdf](https://www.researchgate.net/profile/Mahila-Dadfarnia/publication/328604276_SocialBotHunter_Botnet_Detection_in_Twitter-Like_Social_Networking_Services_Using_Semi-Supervised_Collective_Classification/links/61cc08e0d450060816750432/SocialBotHunter-Botnet-Detection-in-Twitter-Like-Social-Networking-Services-Using-Semi-Supervised-Collective-Classification.pdf)]
+
+
+2. **Real-time Detection of Content Polluters in Partially Observable Twitter Networks.** WWW 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Graph--Based-orange)
+
+*M. Nasim, A. Nguyen, N. Lothian, R. Cope, L. Mitchell.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3184558.3191574)]
+
