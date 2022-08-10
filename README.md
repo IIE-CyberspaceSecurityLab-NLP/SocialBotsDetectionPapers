@@ -47,7 +47,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 2. **Bots, Socks, and Vandals: Advances in Identifying Malicious Actors in Social and Online Platforms.** IPDPS 2018. 
 
-   *Subrahmanian, VS.* [[pdf]()]
+   *Subrahmanian, VS.* 
 
 3. **Detection of Bots in Social Media: A Systematic Review.**  INFORMATION PROCESSING & MANAGEMENT 2020. ![](https://img.shields.io/badge/Journal-CCF--B-green)
 
@@ -55,16 +55,16 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 4. **Detection of malicious social bots: A survey and a refined taxonomy** EXPERT SYSTEMS WITH APPLICATIONS 2020. ![](https://img.shields.io/badge/Journal-CCF--C-green)
   
-   *Latah, M* [[pdf]([https://arxiv.org/abs/2109.12575](https://sci-hub.mksa.top/10.1016/j.eswa.2020.113383))]
+   *Latah, M* [[pdf](https://sci.bban.top/pdf/10.1016/j.eswa.2020.113383.pdf#view=FitH)]
 
 5. **A review on social spam detection: Challenges, open issues, and future directions.**  . EXPERT SYSTEMS WITH APPLICATIONS 2021. ![](https://img.shields.io/badge/Journal-CCF--C-green)
 
-   *Rao, SJ; Verma, AK; Bhatia, T.*  [[pdf](https://sci-hub.mksa.top/https://www.sciencedirect.com/science/article/abs/pii/S0957417421011209)]
+   *Rao, SJ; Verma, AK; Bhatia, T.*  [[pdf](https://pdf.bban.top/uptodate/S0957417421011209.pdf#navpanes=0&view=FitH)]
 
 
 5. **Detecting Social Bots on Twitter: A Literature Review.**  . IIT 2018.
 
-   *Alothali, E; Zaki, N; Mohamed, EA; Alashwal, H.*  [[pdf](https://sci-hub.mksa.top/10.1109/INNOVATIONS.2018.8605995)]
+   *Alothali, E; Zaki, N; Mohamed, EA; Alashwal, H.*  [[pdf](https://sci.bban.top/pdf/10.1109/INNOVATIONS.2018.8605995.pdf#view=FitH)]
    
 
 5. **A Decade of Social Bot Detection.**  . COMMUNICATIONS OF THE ACM 2020. 
