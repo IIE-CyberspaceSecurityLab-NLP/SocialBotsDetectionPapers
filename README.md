@@ -92,6 +92,10 @@ This is a paper list and other useful sources about **Social bot deteting**.
    *L. S. Qiu, Y. W. Shiu, P. P. Lin, R. H. Song, Y. Liu, D. Y. Zhao, et al.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3397271.3401108?casa_token=vy9i4QExL-UAAAAA:CQzRF4QxGvP1hEEkQBN0klXENcmbqnhs3X_K91yEMhnUlefr1dPgFAv5iBkgV0kDswFDctQr4_zSlA)]
 
 
-3. **Uncovering Social Media Bots: a Transparency-focused Approach.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Text-blue)
+4. **Uncovering Social Media Bots: a Transparency-focused Approach.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Text-blue)
 
    *Santos, EF; Carvalho, DS; Ruback, L; Oliveira, J.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3317599?casa_token=unic-v2UJyMAAAAA:-pks19rx1f36dr9swD08-TJdH2I9B9Dd55Fu2dcSM6BaJOroxnAIe5JSuI3geCR1FtOSLcElAwITcw)]
+   
+5. **BotCamp: Bot-driven Interactions in Social Campaigns.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
+
+   *Abu-El-Rub, N ; Mueen, A.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308558.3313420)]
