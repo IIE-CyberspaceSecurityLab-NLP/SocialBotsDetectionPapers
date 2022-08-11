@@ -39,6 +39,150 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ### Datasets
 
+#### Bot Repository
+
+1. **cresci-2015**
+
+    **Description**: A dataset of (i) genuine and (ii) fake Twitter accounts, manually annotated. Released in CSV format.
+
+    > Cresci, S., Di Pietro, R., Petrocchi, M., Spognardi, A., & Tesconi, M. (2015). Fame for sale: efficient detection of fake Twitter followers. Decision Support Systems, 80, 56-71. [[pdf](https://arxiv.org/abs/1509.04098)]
+
+
+2. **cresci-2017**
+
+    **Description**: A dataset of (i) genuine, (ii) traditional, and (iii) social spambot Twitter accounts, annotated by CrowdFlower contributors. Released in CSV format.
+
+    > Cresci, S., Di Pietro, R., Petrocchi, M., Spognardi, A., & Tesconi, M. (2017, April). The paradigm-shift of social spambots: Evidence, theories, and tools for the arms race. In Proceedings of the 26th International Conference on World Wide Web Companion (pp. 963-972). ACM. [[pdf](https://arxiv.org/abs/1701.03017)]
+    > 
+    > Cresci, S., Di Pietro, R., Petrocchi, M., Spognardi, A., & Tesconi, M. (2017). Social Fingerprinting: detection of spambot groups through DNA-inspired behavioral modeling. IEEE Transactions on Dependable and Secure Computing. [[pdf](https://arxiv.org/abs/1703.04482)]
+
+
+3. **caverlee-2011**
+
+    **Description**: This social honeypot dataset collected from December 30, 2009 to August 2, 2010 on Twitter. The dataset contains 22,223 content polluters, their number of followings over time, 2,353,473 tweets, and 19,276 legitimate users, their number of followings over time and 3,259,693 tweets.
+    
+    > Lee, Kyumin, Brian David Eoff, and James Caverlee. "Seven Months with the Devils: A Long-Term Study of Content Polluters on Twitter." ICWSM. 2011. [[pdf](https://people.engr.tamu.edu/caverlee/pubs/lee11icwsm.pdf)]
+
+
+4. **varol-2017**
+
+    **Description**: This dataset contains annotation of 2573 Twitter accounts. Annotation and data crawl is completed in April 2016.
+    
+    > Varol, Onur, Emilio Ferrara, Clayton A. Davis, Filippo Menczer, and Alessandro Flammini. "Online Human-Bot Interactions: Detection, Estimation, and Characterization." ICWSM (2017). [[pdf](https://arxiv.org/abs/1703.03107)]
+
+
+5. **gilani-2017**
+
+    **Description**: Manually annotated human and bot accounts. Labels and user objects.
+    
+    > Gilani, Zafar, Reza Farahbakhsh, Gareth Tyson, Liang Wang, and Jon Crowcroft. "Of bots and humans (on twitter)." In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017, pp. 349-354. ACM, 2017. [[pdf](http://www.eecs.qmul.ac.uk/~tysong/files/Bots-ASONAM17.pdf)]
+
+
+6. **cresci-stock-2018**
+
+    **Description**: Automated accounts that act in coordinate fashion. Labels and user objects.
+    
+    > Cresci, Stefano, Fabrizio Lillo, Daniele Regoli, Serena Tardelli, and Maurizio Tesconi. "$ FAKE: Evidence of Spam and Bot Activity in Stock Microblogs on Twitter." In Twelfth International AAAI Conference on Web and Social Media. 2018. [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17871/17055)]
+
+    > Cresci, Stefano, Fabrizio Lillo, Daniele Regoli, Serena Tardelli, and Maurizio Tesconi. "Cashtag piggybacking: Uncovering spam and bot activity in stock microblogs on Twitter." ACM Transactions on the Web (TWEB) 13, no. 2 (2019): 11. [[pdf](https://arxiv.org/abs/1804.04406)]
+
+
+7. **midterm-2018**
+
+    **Description**: Manually labeled human and bot accounts from 2018 US midterm elections. Labels and processed user objects.
+    
+    > Yang, Kai-Cheng, Onur Varol, Pik-Mai Hui, and Filippo Menczer. "Scalable and generalizable social bot detection through data selection." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 1096-1103. 2020. [[pdf](https://arxiv.org/abs/1911.09179v1)]
+
+
+8. **pronbots-2019**
+
+    **Description**: Pronbots shared by Andy Patel (github.com/r0zetta/pronbot2). Labels and user objects.
+    
+    > Yang, Kai‐Cheng, Onur Varol, Clayton A. Davis, Emilio Ferrara, Alessandro Flammini, and Filippo Menczer. "Arming the public with artificial intelligence to counter social bots." Human Behavior and Emerging Technologies 1, no. 1 (2019): 48-61. [[pdf](https://arxiv.org/abs/1901.00912)]
+
+
+9. **celebrity-2019**
+
+    **Description**: Celebrity accounts collected as authentic users. Labels and user objects.
+    
+    > Yang, Kai‐Cheng, Onur Varol, Clayton A. Davis, Emilio Ferrara, Alessandro Flammini, and Filippo Menczer. "Arming the public with artificial intelligence to counter social bots." Human Behavior and Emerging Technologies 1, no. 1 (2019): 48-61. [[pdf](https://arxiv.org/abs/1901.00912)]
+
+
+10. **vendor-purchased-2019**
+
+    **Description**: Fake follower accounts purchased from several companies. Labels and user objects.
+    
+    > Yang, Kai‐Cheng, Onur Varol, Clayton A. Davis, Emilio Ferrara, Alessandro Flammini, and Filippo Menczer. "Arming the public with artificial intelligence to counter social bots." Human Behavior and Emerging Technologies 1, no. 1 (2019): 48-61. [[pdf](https://arxiv.org/abs/1901.00912)]
+
+
+11. **botometer-feedback-2019**
+
+    **Description**: Botometer feedback accounts manually labeled by K.C. Yang. Labels and user objects.
+    
+    > Yang, Kai‐Cheng, Onur Varol, Clayton A. Davis, Emilio Ferrara, Alessandro Flammini, and Filippo Menczer. "Arming the public with artificial intelligence to counter social bots." Human Behavior and Emerging Technologies 1, no. 1 (2019): 48-61. [[pdf](https://arxiv.org/abs/1901.00912)]
+
+
+12. **political-bots-2019**
+
+    **Description**: Automated political accounts run by @rzazula (now suspended), shared by @josh_emerson on Twitter. Labels and user objects.
+    
+    > Yang, Kai‐Cheng, Onur Varol, Clayton A. Davis, Emilio Ferrara, Alessandro Flammini, and Filippo Menczer. "Arming the public with artificial intelligence to counter social bots." Human Behavior and Emerging Technologies 1, no. 1 (2019): 48-61. [[pdf](https://arxiv.org/abs/1901.00912)]
+
+
+13. **cresci-rtbust-2019**
+
+    **Description**: Manually annotated bot and human accounts. Labels and user objects.
+    
+    > Mazza, Michele, Stefano Cresci, Marco Avvenuti, Walter Quattrociocchi, and Maurizio Tesconi. "Rtbust: Exploiting temporal patterns for botnet detection on twitter." In Proceedings of the 10th ACM Conference on Web Science, pp. 183-192. 2019. [[pdf](https://arxiv.org/abs/1902.04506)]
+
+
+14. **botwiki-2019**
+
+    **Description**: Self-identified bots from https://botwiki.org. Labels and user objects.
+    
+    >     Yang, Kai-Cheng, Onur Varol, Pik-Mai Hui, and Filippo Menczer. "Scalable and generalizable social bot detection through data selection." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 1096-1103. 2020. [[pdf](https://arxiv.org/abs/1911.09179v1)]
+
+
+15. **verified-2019**
+
+    **Description**: Verified human accounts. Labels and user objects.
+    
+    > Yang, Kai-Cheng, Onur Varol, Pik-Mai Hui, and Filippo Menczer. "Scalable and generalizable social bot detection through data selection." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 1096-1103. 2020. [[pdf](https://arxiv.org/abs/1911.09179v1)]
+
+
+16. **Kaiser**
+
+    **Description**: 27 manually annotated German bots, 532 official accounts of German members of parliament, 516 accounts of members of the 115th U.S. Congress
+    
+    > Rauchfleisch, Adrian; Kaiser, Jonas, 2020, "The False positive problem of automatic bot detection in social science research", https://doi.org/10.7910/DVN/XVCKRS, Harvard Dataverse, V2. [[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0241045&type=printable)]  
+
+
+17. **Astroturf**
+
+    **Description**: Hyper-active political bots participating in follow trains and/or systematically deleting high volumes of content
+    
+    > ohsen Sayyadiharikandeh, Onur Varol, Kai-Cheng Yang, Alessandro Flammini, and Filippo Menczer. "Detection of Novel Social Bots by Ensembles of Specialized Classifiers." CIKM. 2020. [[pdf](https://arxiv.org/abs/2006.06867)]
+
+
+**The above dataset can be downloaded along with [[Bot Repository](https://botometer.osome.iu.edu/bot-repository/datasets.html)].** 
+
+
+#### TwiBot
+
+1. **TwiBot-20**
+
+    **Description**: TwiBot-20 is a comprehensive sample of the Twittersphere and it is representative of the current generation of Twitter bots and genuine users. To download the full dataset, please contact the creator directly. [[dataset](https://github.com/BunsenFeng/TwiBot-20)]
+    
+    > Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, and Minnan Luo. "TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark." CIKM. 2021. [[pdf](https://arxiv.org/pdf/2106.13088.pdf)]
+    
+ 
+2. **TwiBot-22**
+
+    **Description**:TwiBot-22 is the largest and most comprehensive Twitter bot detection benchmark to date. Specifically, TwiBot-22 is designed to address the challenges of limited dataset scale, imcomplete graph structure, and low annotation quality in previous datasets. [[dataset](https://drive.google.com/drive/folders/1YwiOUwtl8pCd2GD97Q_WEzwEUtSPoxFs)]
+    
+    > hangbin Feng, Zhaoxuan Tan, Herun Wan, Ningnan Wang, Zilong Chen, Binchi Zhang, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo.
+TwiBot-22: Towards Graph-Based Twitter Bot Detection. CoRR abs/2206.04564 (2022) [[pdf](https://arxiv.org/pdf/2206.04564.pdf)]
+
 
 ### Papers
 
@@ -250,4 +394,4 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
   
 33. **BotCamp: Bot-driven Interactions in Social Campaigns.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red)
 
-  *	Noor Abu-El-Rub, Abdullah Mueen*
+    *Noor Abu-El-Rub, Abdullah Mueen*
