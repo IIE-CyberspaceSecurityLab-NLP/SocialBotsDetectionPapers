@@ -35,13 +35,13 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three tiers.
 
-### Toolkits
+## Toolkits
 
-### Datasets
+## Datasets
 
-### Papers
+## Papers
 
-#### Survey
+### Survey
 
 1. **Taming Social Bots: Detection, Exploration and Measurement.** CIKM 2019. ![](https://img.shields.io/badge/Conference-CCF--B-blue)
    
@@ -74,7 +74,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
    *Cresci, S.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3409116?casa_token=onGHn6FEtxcAAAAA:h8qw7Uoo2Shq5jNErhLYjaKyKhWhgpYLgXVIDvmvWsNYgSqwtOWnIcQipfIKMghnmCY34Uffty0rjA)]
 
 
-#### Research Papers
+### Research Papers
 
 1. **SocialBotHunter: Botnet Detection in Twitter-like Social Networking Services Using Semi-Supervised Collective Classification.** TDSC 2018. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-SocialGraph-red)
 
