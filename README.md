@@ -9,7 +9,7 @@ Important papers on SocialBots detection
     - [Keywords Convention](#keywords-convention)
   - [Toolkits](#toolkits)
   - [Datasets](#datasets)
-    - [Bot Repository](#Bot Repository)
+    - [Bot Repository](#Repository)
     - [TwiBot](#TwiBot)
   - [Papers](#papers)
     - [Survey](#survey)
@@ -40,7 +40,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ### Datasets
 
-#### Bot Repository
+#### BotRepository
 
 1. **cresci-2015**
 
