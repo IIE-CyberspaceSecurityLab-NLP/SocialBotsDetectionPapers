@@ -401,24 +401,32 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
 ### Organizations
 
 1. **Institution**: Italian National Research Council
+   
    **Department**: Institute for Informatics and Telematics IIT
+   
    **Lab**: Maurizio Tesconi's Lab [[Lab](https://www.researchgate.net/lab/Maurizio-Tesconi-Lab)]
    
    
 2. **GITAM University** 
-   GITAM · Department of Computer Science & Engineering [[Department of Computer Science & Engineering](https://www.researchgate.net/profile/Greeshma-Lingam)]
+   
+   **Department**: GITAM · Department of Computer Science & Engineering [[Department of Computer Science & Engineering](https://www.researchgate.net/profile/Greeshma-Lingam)]
    
    
 3. **Institution**: Arizona State University
+   
    **Lab**: Paulo Shakarian's Lab [[Lab](https://labs.engineering.asu.edu/labv2/about-paulo-shakarian/)]
    
 4. **Institution**: Indiana University Bloomington
+   
    **Department**: Department of Informatics
+   
    **Lab**: Filippo Menczer's Lab [[Lab](https://www.researchgate.net/lab/Filippo-Menczer-Lab)]
    
    
 5. **Institution**: University of New Mexico
+   
    **Department**: Department of Computer Science
+  
    **Lab**: Abdullah Mueen's Lab [[Lab](https://www.researchgate.net/lab/Abdullah-Mueen-Lab)]
    
    
@@ -426,11 +434,14 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
 
 
 7. **Institution**: Carnegie Mellon University
+   
    **Department**: Institute for Software Research
+   
    **Lab**: Kathleen M Carley's Lab [[Lab](https://www.researchgate.net/lab/Kathleen-M-Carley-Lab)]
    
    
 8. **Institution**: Xi’an Jiaotong University
+   
    **Lab**: Luo Lab [[pdf](https://luoundergradxjtu.github.io/news.html)]
    
 
@@ -438,7 +449,9 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
 
 
 10. **Institution**: Tsinghua University
+    
     **Department**：TH · Department of Computer Science and Technology 
+    
     **Lab**: Jie Tang's Lab [[Lab](https://www.researchgate.net/profile/Jie-Tang-19)]
 
    
