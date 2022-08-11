@@ -111,4 +111,13 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 8. **Less is More: Semi-Supervised Causal Inference for Detecting Pathogenic Users in Social Media** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
 
-   *Alvari, H; Shaabani, E; Sarkar, S; Beigi, G; Shakarian, P.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316500?casa_token=4X_xhuO_cOQAAAAA:zEe87guJWZ_A8qvaRwMaar4zF12Uhqh2oFBeufwhUwh8Zw6N1VpQr3E99M5OXxf82W1ZqZyEuBdToQ))]
+   *Alvari, H; Shaabani, E; Sarkar, S; Beigi, G; Shakarian, P.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316500?casa_token=4X_xhuO_cOQAAAAA:zEe87guJWZ_A8qvaRwMaar4zF12Uhqh2oFBeufwhUwh8Zw6N1VpQr3E99M5OXxf82W1ZqZyEuBdToQ)]
+
+
+9. **Scalable and Generalizable Social Bot Detection through Data Selection** AAAI 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-UserInfo-green)
+
+   *Yang, KC; Varol, O; Hui, PM; Menczer, F.*  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5460/5316)]
+   
+10. **Graph-Hist: Graph Classification from Latent Feature Histograms with Application to Bot Detection** AAAI 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-SocialGraph-red)
+
+   *Magelinski, T; Beskow, D; Carley, KM.*  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5956/5812)]
