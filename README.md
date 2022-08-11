@@ -107,3 +107,8 @@ This is a paper list and other useful sources about **Social bot deteting**.
 7. **Who Falls for Online Political Manipulation?** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
 
    *Badawy, A; Lerman, K; Ferrara, E.*  [[pdf]([https://dl.acm.org/doi/pdf/10.1145/3308558.3313420](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494?casa_token=WEWcn3S3OhQAAAAA:QjtSCVeS7aqce20-CLlIMUYMGP4IincmMO3dwtF6Fm2vyRtqvL-Gai9z04bhTbmyiLLA4YXhaaxE4A))]
+   
+
+8. **Less is More: Semi-Supervised Causal Inference for Detecting Pathogenic Users in Social Media** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
+
+   *Alvari, H; Shaabani, E; Sarkar, S; Beigi, G; Shakarian, P.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316500?casa_token=4X_xhuO_cOQAAAAA:zEe87guJWZ_A8qvaRwMaar4zF12Uhqh2oFBeufwhUwh8Zw6N1VpQr3E99M5OXxf82W1ZqZyEuBdToQ))]
