@@ -33,6 +33,8 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
 ![](https://img.shields.io/badge/-Temporal-orange) which mainly focus on temporal patterns.
 
+![](https://img.shields.io/badge/-bot--cultivation-black) talk about how to cultivate a good bot, not detect.
+
 ![](https://img.shields.io/badge/Conference-CCF--A-red) CCF is , including A-B-C three tiers.
 
 ## Toolkits
@@ -84,4 +86,8 @@ This is a paper list and other useful sources about **Social bot deteting**.
 2. **Real-time Detection of Content Polluters in Partially Observable Twitter Networks.** WWW 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-Temporal-orange) ![](https://img.shields.io/badge/-Text-blue)
 
    *M. Nasim, A. Nguyen, N. Lothian, R. Cope, L. Mitchell.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3184558.3191574)]
+
+3. **What If Bots Feel Moods? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks.** SIGIR 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-bot--cultivation-black)
+
+   *L. S. Qiu, Y. W. Shiu, P. P. Lin, R. H. Song, Y. Liu, D. Y. Zhao, et al.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3184558.3191574)]
 
