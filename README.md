@@ -102,11 +102,11 @@ This is a paper list and other useful sources about **Social bot deteting**.
    
 6. **Detect Me If You Can: Spam Bot Detection Using Inductive Representation Learning.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-SocialGraph-red)
 
-   *Alhosseini, SA; Bin Tareaf, R; Najafi, P; Meinel, C.*  [[pdf]([https://dl.acm.org/doi/pdf/10.1145/3308558.3313420](https://dl.acm.org/doi/pdf/10.1145/3308560.3316504?casa_token=P7OjZy9bJQgAAAAA:JB4Eemi53R5madjabkS7eZvXaWC40YeFZYAEifCPX8JuvK9zFMQ2B0Ga2MAaeIino7IoHncMQ-vZdg))]
+   *Alhosseini, SA; Bin Tareaf, R; Najafi, P; Meinel, C.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316504?casa_token=P7OjZy9bJQgAAAAA:JB4Eemi53R5madjabkS7eZvXaWC40YeFZYAEifCPX8JuvK9zFMQ2B0Ga2MAaeIino7IoHncMQ-vZdg)]
 
 7. **Who Falls for Online Political Manipulation?** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
 
-   *Badawy, A; Lerman, K; Ferrara, E.*  [[pdf]([https://dl.acm.org/doi/pdf/10.1145/3308558.3313420](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494?casa_token=WEWcn3S3OhQAAAAA:QjtSCVeS7aqce20-CLlIMUYMGP4IincmMO3dwtF6Fm2vyRtqvL-Gai9z04bhTbmyiLLA4YXhaaxE4A))]
+   *Badawy, A; Lerman, K; Ferrara, E.*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494?casa_token=WEWcn3S3OhQAAAAA:QjtSCVeS7aqce20-CLlIMUYMGP4IincmMO3dwtF6Fm2vyRtqvL-Gai9z04bhTbmyiLLA4YXhaaxE4A)]
    
 
 8. **Less is More: Semi-Supervised Causal Inference for Detecting Pathogenic Users in Social Media** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red) 
