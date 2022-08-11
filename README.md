@@ -120,4 +120,5 @@ This is a paper list and other useful sources about **Social bot deteting**.
    
 10. **Graph-Hist: Graph Classification from Latent Feature Histograms with Application to Bot Detection** AAAI 2020. ![](https://img.shields.io/badge/Conference-CCF--A-red) ![](https://img.shields.io/badge/-SocialGraph-red)
 
+   
    *Magelinski, T; Beskow, D; Carley, KM.*  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5956/5812)]
