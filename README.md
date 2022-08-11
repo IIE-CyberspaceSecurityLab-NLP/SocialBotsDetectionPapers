@@ -9,11 +9,12 @@ Important papers on SocialBots detection
     - [Keywords Convention](#keywords-convention)
   - [Toolkits](#toolkits)
   - [Datasets](#datasets)
+    - [Bot Repository](#Bot Repository)
+    - [TwiBot](#TwiBot)
   - [Papers](#papers)
     - [Survey](#survey)
     - [Research Papers](#research-papers)
   - [Organizations](#organizations)
-  - [Toolkits](#toolkits)
   - [Contribution](#contribution)
 
 
