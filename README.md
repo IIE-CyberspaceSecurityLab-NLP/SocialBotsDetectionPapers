@@ -16,6 +16,7 @@ Important papers on SocialBots detection
     - [Research Papers](#research-papers)
   - [Organizations](#organizations)
   - [Contribution](#contribution)
+  - [Social bot detection site](#site)
 
 
 ## Introduction
@@ -455,3 +456,49 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
     **Lab**: Jie Tang's Lab [[Lab Page](https://www.researchgate.net/profile/Jie-Tang-19)]
 
    
+## Social bot detection website
+
+1. **Debot**
+
+    **Description**: DeBot is real-time bot detection system. The project started on Feb 2015 and it has been collecting data since Aug 2015. High correlation in activities among users in social media is unusual and can be used as an indicator of bot behavior. DeBot identifies such bots in Twitter network. Our system reports and archives thousands of bot accounts every day. DeBot is an unsupervised method capable of detecting bots in a parameter-free fashion. In March 2017, DeBot has collected over 730K unique bots. Since we are detecting and archiving Twitter bots on a daily basis, we can offer two different service: bot archive API and on-demand bot detection platform.
+    
+    
+    **Papers**
+    
+    > On-Demand Bot Detection and Archival System (WWW'17-Demo). Nikan Chavoshi, Hossein Hamooni and Abdullah Mueen, to appear In the Proceedings of World Wide Web Conference (Companion Volume). [[pdf](https://www.researchgate.net/publication/314179650_On-Demand_Bot_Detection_and_Archival_System)]
+    
+    > Temporal Patterns in Bot Activities (WWW'17-TempWeb). Nikan Chavoshi, Hossein Hamooni and Abdullah Mueen, to appear In the Proceedings of World Wide Web Conference (Companion Volume). [[pdf](https://www.researchgate.net/publication/314179583_Temporal_Patterns_in_Bot_Activities)]
+    
+    > DeBot: Twitter Bot Detection via Warped Correlation (ICDM'16). Nikan Chavoshi, Hossein Hamooni and Abdullah Mueen, to appear In the Proceedings of the 8th International Conference on 6th IEEE International Conference on Data Mining. [[pdf](https://www.researchgate.net/publication/308021270_DeBot_Twitter_Bot_Detection_via_Warped_Correlation)]
+    
+    > Identifying Correlated Bots in Twitter (SocInfo'16). Nikan Chavoshi, Hossein Hamooni and Abdullah Mueen, to appear In the Proceedings of the 8th International Conference on Social Informatics, pp. 14-21, SOCINFO 2016. [[pdf](Identifying Correlated Bots in Twitter)]
+    
+    
+    **site**: [[Debot: Real-time Bot Detection via Activity Correlation](www.cs.unm.edu/~chavoshi/debot/)] 
+    
+  
+ 2. **Botometer**
+ 
+    **Description**: Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Botometer is a joint project of the Observatory on Social Media ([[OSoMe](https://osome.iu.edu/)]) and the Network Science Institute ([[IUNI](https://iuni.iu.edu/)]) at Indiana University.
+    
+    
+    > The DARPA Twitter bot challenge VS Subrahmanian Amos Azaria Skylar Durst Vadim Kagan Aram Galstyan Kristina Lerman Linhong Zhu Emilio Ferrara Alessandro Flammini Filippo Menczer Andrew Stevens Alexander Dekhtyar Shuyang Gao Tad Hogg Yan Liu Onur Varol Prashant Shiralkar Vinod Vydiswaran Qiaozhu Mei Tim Hwang. IEEE Computer 49(6), June 2016. [[pdf](https://arxiv.org/pdf/1601.05140.pdf)]
+    
+    > The Rise of Social Bots. Emilio Ferrara Onur Varol Clayton A. Davis Filippo Menczer Alessandro Flammini. Comm. ACM 59(7), July 2016. [[pdf](https://cacm.acm.org/magazines/2016/7/204021-the-rise-of-social-bots/fulltext)]
+     
+    > Feature Engineering for Social Bot Detection. Onur Varol Clayton A. Davis Filippo Menczer Alessandro Flammini. Feature Engineering for Machine Learning and Data Analytics. [[pdf](https://doi.org/10.1201/9781315181080-12)]
+    
+    > BotOrNot: A System to Evaluate Social Bots. Clayton A. Davis Onur Varol Emilio Ferrara Alessandro Flammini Filippo Menczer. WWW Developers Day 2016.[[pdf](https://dl.acm.org/doi/10.1145/2872518.2889302)]
+    
+    > Online Human-Bot Interactions: Detection, Estimation, and Characterization. Onur Varol Emilio Ferrara Clayton A. Davis Filippo Menczer Alessandro Flammini. ICWSM 2017. [[pdf](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15587)]
+    
+    > Arming the public with AI to counter social bots. Kai-Cheng Yang Onur Varol Clayton A. Davis Emilio Ferrara Alessandro Flammini Filippo Menczer. Human Behavior and Emerging Technologies. [[pdf](https://doi.org/10.1002/hbe2.115)]
+    
+    > Scalable and Generalizable Social Bot Detection through Data Selection. Kai-Cheng Yang Onur Varol Pik-Mai Hui Filippo Menczer. AAAI 2020. [[pdf](https://doi.org/10.1609/aaai.v34i01.5460)]
+    
+    > Detection of Novel Social Bots by Ensembles of Specialized Classifiers. Mohsen Sayyadiharikandeh Onur Varol Kai-Cheng Yang Alessandro Flammini. Filippo Menczer. CIKM 2020. [[pdf](https://dl.acm.org/doi/10.1145/3340531.3412698)]
+
+    > Botometer 101: Social bot practicum for computational social scientists. Kai-Cheng Yang Emilio Ferrara Filippo Menczer. Technical Report. [[pdf](https://arxiv.org/abs/2201.01608)]
+    
+    
+    **site**: [[Botometer](https://botometer.osome.iu.edu/)]
