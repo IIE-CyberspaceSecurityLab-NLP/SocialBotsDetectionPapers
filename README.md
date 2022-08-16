@@ -484,6 +484,7 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
  
     **Description**: Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Botometer is a joint project of the Observatory on Social Media ([[OSoMe](https://osome.iu.edu/)]) and the Network Science Institute ([[IUNI](https://iuni.iu.edu/)]) at Indiana University.
     
+    **papers**
     
     > The DARPA Twitter bot challenge VS Subrahmanian Amos Azaria Skylar Durst Vadim Kagan Aram Galstyan Kristina Lerman Linhong Zhu Emilio Ferrara Alessandro Flammini Filippo Menczer Andrew Stevens Alexander Dekhtyar Shuyang Gao Tad Hogg Yan Liu Onur Varol Prashant Shiralkar Vinod Vydiswaran Qiaozhu Mei Tim Hwang. IEEE Computer 49(6), June 2016. [[pdf](https://arxiv.org/pdf/1601.05140.pdf)]
     
