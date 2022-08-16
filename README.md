@@ -460,6 +460,8 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
 
 1. **Debot**
 
+    **site**: [Debot: Real-time Bot Detection via Activity Correlation](www.cs.unm.edu/~chavoshi/debot/)
+    
     **Description**: DeBot is real-time bot detection system. The project started on Feb 2015 and it has been collecting data since Aug 2015. High correlation in activities among users in social media is unusual and can be used as an indicator of bot behavior. DeBot identifies such bots in Twitter network. Our system reports and archives thousands of bot accounts every day. DeBot is an unsupervised method capable of detecting bots in a parameter-free fashion. In March 2017, DeBot has collected over 730K unique bots. Since we are detecting and archiving Twitter bots on a daily basis, we can offer two different service: bot archive API and on-demand bot detection platform.
     
     
@@ -473,11 +475,12 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
     
     > Identifying Correlated Bots in Twitter (SocInfo'16). Nikan Chavoshi, Hossein Hamooni and Abdullah Mueen, to appear In the Proceedings of the 8th International Conference on Social Informatics, pp. 14-21, SOCINFO 2016. [[pdf](Identifying Correlated Bots in Twitter)]
     
-    
-    **site**: [[Debot: Real-time Bot Detection via Activity Correlation](www.cs.unm.edu/~chavoshi/debot/)] 
+   
     
   
- 2. **Botometer**
+2. **Botometer**
+
+    **site**: [Botometer](https://botometer.osome.iu.edu/)
  
     **Description**: Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Botometer is a joint project of the Observatory on Social Media ([[OSoMe](https://osome.iu.edu/)]) and the Network Science Institute ([[IUNI](https://iuni.iu.edu/)]) at Indiana University.
     
@@ -501,4 +504,4 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
     > Botometer 101: Social bot practicum for computational social scientists. Kai-Cheng Yang Emilio Ferrara Filippo Menczer. Technical Report. [[pdf](https://arxiv.org/abs/2201.01608)]
     
     
-    **site**: [[Botometer](https://botometer.osome.iu.edu/)]
+   
