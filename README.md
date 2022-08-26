@@ -370,34 +370,38 @@ Computing 2018. ![](https://img.shields.io/badge/Journal-CCF--A-red)
 
 28. **BotRGCN: Twitter Bot Detection with RelationalGraph Convolutional Networks.** ASONAM 2021 Short. ![](https://img.shields.io/badge/-UserInfo-green)  ![](https://img.shields.io/badge/-Text-blue) ![](https://img.shields.io/badge/-SocialGraph-red)
 
-    *Shangbin Feng, Herun Wan, Ningnan Wang, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13092.pdf)]
+    *Shangbin Feng, Herun Wan, Ningnan Wang, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13092.pdf)] [[code](https://github.com/BunsenFeng/BotRGCN)]
   
   
 29. **SATAR: A Self-supervised Approach to Twitter Account.** CIKM 2021. ![](https://img.shields.io/badge/Conference-CCF--B-blue)  ![](https://img.shields.io/badge/-Text-blue) ![](https://img.shields.io/badge/-UserInfo-green)
 
-    *Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13089.pdf)]
+    *Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13089.pdf)] [[code](https://github.com/BunsenFeng/SATAR)]
   
   
 30. **TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark.** CIKM 2021. ![](https://img.shields.io/badge/Conference-CCF--B-blue) 
 
-    *Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13088.pdf)]
+    *Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2106.13088.pdf)] [[code](https://github.com/BunsenFeng/TwiBot-20)]
   
   
 31. **TwiBot-22: Towards Graph-Based Twitter Bot Detection.** 
 
-    *Shangbin Feng, Zhaoxuan Tan, Herun Wan1, Ningnan Wang, Zilong Chen, Binchi Zhang, Qinghua Zheng1, Wenqian Zhang1, Zhenyu Lei1, Shujie Yang1, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2206.04564.pdf)]
+    *Shangbin Feng, Zhaoxuan Tan, Herun Wan1, Ningnan Wang, Zilong Chen, Binchi Zhang, Qinghua Zheng1, Wenqian Zhang1, Zhenyu Lei1, Shujie Yang1, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo.* [[pdf](https://arxiv.org/pdf/2206.04564.pdf)] [[code](https://github.com/LuoUndergradXJTU/TwiBot-22)]
   
   
 32. **Heterogeneity-Aware Twitter Bot Detection with Relational Graph Transformers.** AAAI 2022. ![](https://img.shields.io/badge/Conference-CCF--A-red)
 ![](https://img.shields.io/badge/-UserInfo-green)  ![](https://img.shields.io/badge/-Text-blue) ![](https://img.shields.io/badge/-SocialGraph-red)
   
-    *Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo.* [[pdf](https://arxiv.org/abs/2109.02927)]
+    *Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo.* [[pdf](https://arxiv.org/abs/2109.02927)] [[code](https://github.com/BunsenFeng/BotHeterogeneity)]
   
   
 33. **BotCamp: Bot-driven Interactions in Social Campaigns.** WWW 2019. ![](https://img.shields.io/badge/Conference-CCF--A-red)
 
     *Noor Abu-El-Rub, Abdullah Mueen*
 
+34. **BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency** arxiv 2022 ![](https://img.shields.io/badge/Conference-CCF--A-red)
+![](https://img.shields.io/badge/-UserInfo-green)  ![](https://img.shields.io/badge/-Text-blue) ![](https://img.shields.io/badge/-SocialGraph-red)
+
+    *Zhenyu Lei, Herun Wan, Wenqian Zhang, Shangbin Feng, Zilong Chen, Qinghua Zheng, Minnan Luo* [[pdf](https://arxiv.org/abs/2208.08320)] [[code](https://github.com/LzyFischer/BIC)]
 
 ### Organizations
 
