@@ -142,7 +142,7 @@ This is a paper list and other useful sources about **Social bot deteting**.
 
     **Description**: Self-identified bots from https://botwiki.org. Labels and user objects.
     
-    >     Yang, Kai-Cheng, Onur Varol, Pik-Mai Hui, and Filippo Menczer. "Scalable and generalizable social bot detection through data selection." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 1096-1103. 2020. [[pdf](https://arxiv.org/abs/1911.09179v1)]
+    > Yang, Kai-Cheng, Onur Varol, Pik-Mai Hui, and Filippo Menczer. "Scalable and generalizable social bot detection through data selection." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 1096-1103. 2020. [[pdf](https://arxiv.org/abs/1911.09179v1)]
 
 
 15. **verified-2019**
